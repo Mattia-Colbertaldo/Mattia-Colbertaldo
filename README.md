@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Mattia ✨
+
+🚀 I love Data Analysis, ML and Simulations.
+
+🔭 I’m currently working on my Thesis project [PhyloML](https://github.com/Mattia-Colbertaldo/PhyloML)
+
+📫 How to reach me: 
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mattia-colbertaldo)
+
 <!--
 **Mattia-Colbertaldo/Mattia-Colbertaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
