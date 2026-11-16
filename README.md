@@ -1,11 +1,5 @@
 ### Hi there 👋
-<!--
-I'm Mattia ✨
 
-🚀 I love Data Analysis, ML and Simulations.
-
-🔭 I’m currently working on my Thesis project [PhyloML](https://github.com/Mattia-Colbertaldo/PhyloML) .
---!>
 
 📫 How to reach me: 
 
